@@ -1,1 +1,8 @@
-测试 Gmeek 的缓存
+{
+  "title": "果园的博客~",
+  "subTitle": "你好，欢迎来到我的博客。这是一个不讨论算法、不追踪更新、不记录排错的角落。在代码构筑的理性世界之外，我想和你谈谈“人”本身。",
+  "avatarUrl": "https://gybc.top/logo.png",
+  "allHead": "<link rel=\"preconnect\" href=\"https://code.buxiantang.top\"><link rel=\"preconnect\" href=\"https://blog.meekdai.com\"><link rel=\"stylesheet\" href=\"https://code.buxiantang.top/assets/GmeekBaseTheme.css\"><script src=\"https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js\"></script><script src=\"https://code.buxiantang.top/assets/GmeekCustomizeCss.js\"></script>",
+  "script": "<script src=\"https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js\"></script><script src=\"https://blog.meekdai.com/Gmeek/plugins/articletoc.js\"></script><script src=\"https://blog.meekdai.com/Gmeek/plugins/lightbox.js\"></script>",
+  "GMEEK_VERSION": "last"
+}
