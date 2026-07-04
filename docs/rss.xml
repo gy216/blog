@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>果园的博客~</title><link>https://gy216.github.io/blog</link><description>你好，欢迎来到我的博客。这是一个不讨论算法、不追踪更新、不记录排错的角落。在代码构筑的理性世界之外，我想和你谈谈“人”本身。</description><copyright>果园的博客~</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gybc.top/logo.png</url><title>avatar</title><link>https://gy216.github.io/blog</link></image><lastBuildDate>Mon, 22 Jun 2026 13:27:17 +0000</lastBuildDate><managingEditor>果园的博客~</managingEditor><ttl>60</ttl><webMaster>果园的博客~</webMaster><item><title>网站 V6.9.2_2606-22_14LOVE 更新</title><link>https://gy216.github.io/blog/post/wang-zhan-%20V6.9.2_2606-22_14LOVE%20-geng-xin.html</link><description>本次更新内容:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>果园的博客~</title><link>https://gy216.github.io/blog</link><description>你好，欢迎来到我的博客。这是一个不讨论算法、不追踪更新、不记录排错的角落。在代码构筑的理性世界之外，我想和你谈谈“人”本身。</description><copyright>果园的博客~</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://gybc.top/logo.png</url><title>avatar</title><link>https://gy216.github.io/blog</link></image><lastBuildDate>Sat, 04 Jul 2026 12:34:03 +0000</lastBuildDate><managingEditor>果园的博客~</managingEditor><ttl>60</ttl><webMaster>果园的博客~</webMaster><item><title>网站 V6.9.3_260704_02TiAmo 更新</title><link>https://gy216.github.io/blog/post/wang-zhan-%20V6.9.3_260704_02TiAmo%20-geng-xin.html</link><description>**V6.9.3_260704_02TiAmo更新日志**
+1.更改版本代号为 TiAmo（我爱你）
+2.优化部分功能体验
+3.修复已知问题
+4.优化 SoFarAway 成员页的文案描述
+5.修复部分产品
+6.增加 TimeNotes 产品的描述
+**本次更新推送**
+Edge Chromium 97 及以上版本 
+2026 年 7 月 4 日
+Firefox 4.0 及以上版本 
+2026 年 7 月 4 日
+Android Webview 100 及以上版本
+2026 年 7 月 4 日
+Safari
+2026 年 7 月 5 日
+其他浏览器会在 2026 年 7 月 10 日前完成适配
+。</description><guid isPermaLink="true">https://gy216.github.io/blog/post/wang-zhan-%20V6.9.3_260704_02TiAmo%20-geng-xin.html</guid><pubDate>Sat, 04 Jul 2026 12:33:38 +0000</pubDate></item><item><title>网站 V6.9.2_2606-22_14LOVE 更新</title><link>https://gy216.github.io/blog/post/wang-zhan-%20V6.9.2_2606-22_14LOVE%20-geng-xin.html</link><description>本次更新内容:
 1.新建 Github Action 自动在发布后邮件通知我
 2.无。</description><guid isPermaLink="true">https://gy216.github.io/blog/post/wang-zhan-%20V6.9.2_2606-22_14LOVE%20-geng-xin.html</guid><pubDate>Mon, 22 Jun 2026 13:26:50 +0000</pubDate></item><item><title>去超市买薯片的一点感悟</title><link>https://gy216.github.io/blog/post/qu-chao-shi-mai-shu-pian-de-yi-dian-gan-wu.html</link><description>今天下午，我去家对面的新进超市买薯片。</description><guid isPermaLink="true">https://gy216.github.io/blog/post/qu-chao-shi-mai-shu-pian-de-yi-dian-gan-wu.html</guid><pubDate>Sat, 20 Jun 2026 15:56:14 +0000</pubDate></item><item><title>主站 V7 版本即将开始进行编写工作</title><link>https://gy216.github.io/blog/post/zhu-zhan-%20V7%20-ban-ben-ji-jiang-kai-shi-jin-xing-bian-xie-gong-zuo.html</link><description>主站 V7 版本即将启动开发，预计于暑假期间发布。</description><guid isPermaLink="true">https://gy216.github.io/blog/post/zhu-zhan-%20V7%20-ban-ben-ji-jiang-kai-shi-jin-xing-bian-xie-gong-zuo.html</guid><pubDate>Thu, 11 Jun 2026 15:14:02 +0000</pubDate></item><item><title>qlnmsl</title><link>https://gy216.github.io/blog/post/qlnmsl.html</link><description>我操你妈 你妈死了 你妈没目了。</description><guid isPermaLink="true">https://gy216.github.io/blog/post/qlnmsl.html</guid><pubDate>Thu, 11 Jun 2026 09:03:26 +0000</pubDate></item><item><title>Gmeek 缓存测试</title><link>https://gy216.github.io/blog/post/Gmeek%20-huan-cun-ce-shi.html</link><description>{&#13;
   'title': '果园的博客~',&#13;
